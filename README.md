@@ -1,4 +1,4 @@
 # demo
 this is my first git repo
 <br>
-author noah
+author noah (demo)
